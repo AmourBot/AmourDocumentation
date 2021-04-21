@@ -11,7 +11,7 @@ Thank you for reading Amour's documentation.
 #### Amour's infrastructure:
 
 * Github to make constant backups of the bot with 2fa on every user with access.
-* Heroku for our host.
+* Hetzner Containers to host the bot and website.
 * Various APIs, such as Google Cloud Translate, OpenWeather, IpData, ColorAPI, Mojang API, Hypixel API, NameMC API, and more.
 * Various node packages.
 * Discord API.
@@ -19,22 +19,20 @@ Thank you for reading Amour's documentation.
 * Trello to make changes.
 * Visual Studio Code Live Share to make live changes to the bot.
 * Gsuite for our email platform.
-* Paid private web service for website hosting.
-* Glitch for coding our website.
 * GitBooks for Amour documentation.
 
 ### **Contact Information**
 
 **Bea I.**  
-- Head of legal team, PR, bot development, main point of contact  
-- Bot founder/creator and owner.
+- Head of Legal Team, PR, Bot Development, Main Point of Contact  
+- Bot Founder/Creator and Owner.
 
 Bea has a vast experience in JavaScript, HTML/CSS, Python, C, C++ and GoLang with an expanding knowledge of Java. 
 
-**Bea's Discord:** Main: Bea\#0001 / Side: bea\#0001  
+**Bea's Discord:** Main: REDRUM\#0001 / Bea\#0001 / Side: bea\#0001  
 **Bea's Email:** bea@amourbot.com  
-**Bea's Twitter:** [@17tragic](https://twitter.com/17tragic)  
-**Bea's Github:** [beasleeps](https://github.com/beasleeps)
+**Bea's Twitter:** [@18tragic](https://twitter.com/18tragic)  
+**Bea's Github:** [zredrum](https://github.com/zredrum)
 
 ### **Amour Contact/General**
 

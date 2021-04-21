@@ -6,7 +6,7 @@ description: Amour's landing page.
 
 ### Hi there!
 
-Welcome to the documentation for **Amour**, an aesthetic Discord bot fitting all communities. This is the landing page to help you get set up and explaining all the commands you need to know.
+Welcome to the documentation for **Amour**, a multi-purpose Discord bot fitting all communities with an easy-to-use system. This is the landing page to help you get set up and explaining all the commands you need to know.
 
 **PLEASE NOTE: ALL DOCUMENTATION EXAMPLES USE AMOUR'S DEFAULT PREFIX, ;;. IT MAY NOT WORK IF YOU HAVE AN ALTERNATIVE ONE SET.**
 
@@ -20,22 +20,22 @@ Amour is a sophisticated bot. Unlike many bots, Amour focuses on a smooth theme,
 
 #### What if I have questions and need further help?
 
-* Please reach out to Bea\#0001 on Discord for priority replies. Additionally, you can join the [support server](https://discord.gg/g4p6UMj) and send a message in the help channel which will automatically alert us.
-* If you are not in the support server or would like an alternative option, you may use ;;amourhelp in any guild and Amour will DM you so you can submit your request and contact the developers through the bot.
+* Please reach out to REDRUM\#0001 on Discord for priority replies. Additionally, you can join the [support server](https://discord.gg/g4p6UMj) and send a message in the help channel which will automatically alert us.
+* If you are not in the support server or would like an alternative option, you may use ;;amourhelp in any guild, and Amour will DM you so you can submit your request and contact the developers through the bot.
 * Alternatively, you may tweet @amourdiscord or email bea@amourbot.com with your request.
 
 #### Is my information safe? 
 
-* Amour's databases only store guild IDs, balances, user IDs etc and not things such as your IP as that cannot be grabbed by Amour. Amour's database is only accessible by Bea and Bea is the only one who can access Amour's system on a secure VPS.
-* To request deletion of your information, please email bea@amourbot.com or send Bea\#0001 a DM. Additionally, you may use the contact info by clicking [here](done.md#contact-information).
+* Amour's databases only store guild IDs, balances, user IDs, etc and not things such as your IP as that cannot be grabbed by Amour. Amour's database is only accessible by Bea and Bea is the only one who can access Amour's system on a secure container.
+* To request deletion of your information, please email bea@amourbot.com or send REDRUM\#0001 a DM. Additionally, you may use the contact info by clicking [here](done.md#contact-information).
 
 #### What is the uptime of Amour?
 
-* As of present, Amour's uptime has been almost 99.9% with maintenance only every 2 weeks for 10 minutes. If an update to Amour's hosting software is sent to us, maintenance can take up to two hours to push the software update.
+* As of present, Amour's uptime has been almost 99.9% with maintenance lasting roughly 3 minutes every week at it's least active hours. 
 
 #### Do you have a source code link?
 
-* No. Amour's code is almost entirely unique for most and the database is called for in a lot of files, therefore it would also be a security breach to share the code.
+* No. Amour's code is almost entirely unique for the most part, and many aspects of vulnerable information are distributed across a number of files, leaving the state of the bot in jeopardy, especially if we were to share the code.
 
 Thank you so much for supporting and using Amour! 
 
