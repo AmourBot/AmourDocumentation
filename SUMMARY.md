@@ -26,9 +26,12 @@
 
 * [Informational Commands](info/infocmds.md)
 
----
+## Utility
+
+* [Utility Commands](utility/utility-commands.md)
+
+***
 
 * [DONE!](done.md)
-* [Add Bot](https://discord.com/api/oauth2/authorize?client_id=717901936648781888&permissions=306052336&scope=bot)
+* [Add Bot](https://discord.com/api/oauth2/authorize?client\_id=717901936648781888\&permissions=306052336\&scope=bot)
 * [Support Server](https://discord.gg/SM2SnfxD9c)
-
