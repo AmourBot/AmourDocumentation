@@ -6,46 +6,46 @@ description: The command list for commands marked as info for Amour.
 
 ### ;;addbot
 
-Receive the invite link to add Amour to your server.  
+Receive the invite link to add Amour to your server.\
 **Usage:** ;;addbot
 
 ![Receive the default link to add Amour to your Discord server.](../.gitbook/assets/addbot.png)
 
 ### ;;amourhelp
 
-Send a message to the Amour development team.  
-**Usage:**  
-;;amourhelp \[message\]  
+Send a message to the Amour development team.\
+**Usage:**\
+****;;amourhelp \[message]\
 ;;amourhelp
 
 ![If no message is provided, Amour will DM you.](../.gitbook/assets/amourhelp.png)
 
 ### ;;avatar
 
-Get Amour's thoughts on any question you have!  
-**Usage:**   
-;;av \[user optional\]  
-;;avatar \[user optional\]
+Get Amour's thoughts on any question you have!\
+**Usage:** \
+****;;av \[user optional]\
+;;avatar \[user optional]
 
-![A full size&apos;d edition of a user&apos;s profile photo on Discord will be sent.](../.gitbook/assets/avatar.png)
+![A full size'd edition of a user's profile photo on Discord will be sent.](../.gitbook/assets/avatar.png)
 
 ### ;;bitcoin
 
-Get current Bitcoin price in USD, GBP & EUR.  
-**Usage:**   
-;;bitcoin  
+Get current Bitcoin price in USD, GBP & EUR.\
+**Usage:** \
+****;;bitcoin\
 ;;btc
 
 ![No arguments are needed after the command.](../.gitbook/assets/btc.png)
 
 ### ;;covid
 
-Get statistics on COVID-19 globally or in a country.  
-**Aliases:**  
-;;coronavirus  
-;;covidstats  
-**Usage:**  
-;;covid \[country\]
+Get statistics on COVID-19 globally or in a country.\
+**Aliases:**\
+;;coronavirus\
+;;covidstats\
+**Usage:**\
+****;;covid \[country]
 
 ![Global statistics from covid.ninja](../.gitbook/assets/covidglobal.png)
 
@@ -55,28 +55,28 @@ If you mention a country, it will return specific data for that country.
 
 ### ;;credits
 
-Sends the credits on the creation of Amour.  
-**Aliases:**  
-;;creds  
+Sends the credits on the creation of Amour.\
+**Aliases:**\
+;;creds\
 **Usage:** ;;credits
 
 ![Credits may update over time.](../.gitbook/assets/credits.png)
 
 ### ;;help
 
-**Aliases:**  
+**Aliases:**\
 ;;commands
 
-Shows full command list, dynamically updates.  
-**Usage:** ;;help \[;;commandname optional\]
+Shows full command list, dynamically updates.\
+**Usage:** ;;help \[;;commandname optional]
 
-![\(This embed was way too big to include here\)](../.gitbook/assets/screen-shot-2020-12-18-at-11.27.14-pm.png)
+![(This embed was way too big to include here)](../.gitbook/assets/screen-shot-2020-12-18-at-11.27.14-pm.png)
 
 ### ;;helpdesk
 
-Get Amour's thoughts on any question you have!  
-**Usage:**  
-;;helpdesk \[message\]  
+Get Amour's thoughts on any question you have!\
+**Usage:**\
+****;;helpdesk \[message]\
 ;;helpdesk
 
 Usage of ;;helpdesk is easy. You can go either of two ways to use ;;helpdesk.
@@ -103,101 +103,69 @@ Once you have let the bot know what your message is, whether it's in server or i
 
 ### ;;hexcolor
 
-Gets a hex color's information including rgb value, color preview and it's original name.  
-**Aliases:**  
-;;color  
-;;hexcolour  
-;;colour  
-;;hex  
-**Usage:** ;;hexcolor {\#hex with or without \#}
+Gets a hex color's information including rgb value, color preview and it's original name.\
+**Aliases:**\
+;;color\
+;;hexcolour\
+;;colour\
+;;hex\
+**Usage:** ;;hexcolor {#hex with or without #}
 
-![You can provide a \# before the hex or leave it as is.](../.gitbook/assets/hexcolor.png)
+![You can provide a # before the hex or leave it as is.](../.gitbook/assets/hexcolor.png)
 
-### ;;iplookup
 
-Look up IP information, such as location and service provider.  
-**Usage:**  
-;;ip \[ip\]  
-;;iptracker \[ip\]  
-****;;ipcheck \[ip\]
-
-![Disclaimer: Amour does not log any IP addresses of its users whatsoever.](../.gitbook/assets/iplookup.png)
 
 ### ;;leaderboard
 
-Shows the leaderboard for partnerships completed in Amour by day, week, month and all-time.  
-**Aliases:**  
-;;leaderboards  
-;;lb  
-;;partnertop  
+Shows the leaderboard for partnerships completed in Amour by day, week, month and all-time.\
+**Aliases:**\
+;;leaderboards\
+;;lb\
+;;partnertop\
 **Usage:** ;;leaderboard
 
 ![Get the leaderboard for partnerships in a server.](../.gitbook/assets/leaderboard.png)
 
 ### ;;partners
 
-Get the amount of partners you or someone else has completed.  
-**Usage:** ;;partners \[user optional\]
+Get the amount of partners you or someone else has completed.\
+**Usage:** ;;partners \[user optional]
 
 ![Get your specific partnership counts or a user mentioned.](../.gitbook/assets/partners.png)
 
-### ;;ping
-
-Ping Amour to get the latency in ms.  
-**Aliases:**  
-;;latency  
-**Usage:** ;;ping
-
-![Returns bot ping &amp; API ping.](../.gitbook/assets/ping.png)
-
 ### ;;serverinfo
 
-Get information about a server.  
-**Usage:**  
-;;guildinfo  
+Get information about a server.\
+**Usage:**\
+****;;guildinfo\
 ;;serverinfo
 
 ![If no database IDs are mentioned, they are replaced with N/A.](../.gitbook/assets/serverinfo.png)
 
 ### ;;status
 
-Get Amour's statuses.  
+Get Amour's statuses.\
 **Usage:** ;;status
 
 ![Get details about Amour.](../.gitbook/assets/status.png)
 
 ### ;;suggest
 
-Suggest a feature for amour!  
-**Usage:** ;;suggest \[suggestion\]
+Suggest a feature for amour!\
+**Usage:** ;;suggest \[suggestion]
 
 ![If no suggestion is mentioned, Amour will DM you.](../.gitbook/assets/suggest.png)
 
 ### ;;support
 
-Sends an invite link to the support server.  
+Sends an invite link to the support server.\
 **Usage:** ;;support
 
 ![Get our server support link.](../.gitbook/assets/support.png)
 
-### ;;timezone
-
-Gets the timezone from a city.  
-**Usage:** ;;timezone \[city\] \[continent\]
-
-![Example usage. Command still being polished, but functional.](../.gitbook/assets/timezone.png)
-
-### ;;translate
-
-Translates a given sentence.  
-**Usage:** ;;translate \[sourcelanguage\] \[targetlanguage\] \[text\]
-
-![Language codes are not supported.](../.gitbook/assets/translate.png)
-
 ### ;;weather
 
-Gets the weather in any US state from zip code or a country.  
-**Usage:** ;;weather \[zip code \| city, countrycode\]
+Gets the weather in any US state from zip code or a country.\
+**Usage:** ;;weather \[zip code | city, countrycode]
 
-![You can provide either a zip code or city &amp; countrycode.](../.gitbook/assets/weather.png)
-
+![You can provide either a zip code or city & countrycode.](../.gitbook/assets/weather.png)
