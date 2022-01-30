@@ -8,26 +8,25 @@ The partnerships function of Amour is to count how many partnerships each user h
 
 ### Usage:
 
-;;setpartnerchannel \[channel\]  
-\[channel\] can include:
+;;setpartnerchannel \[channel]\
+\[channel] can include:
 
 * The channel ID,
-* Or the \#channel with a \#.
+* Or the #channel with a #.
 
 #### Example:
 
-![](../.gitbook/assets/setpartnerchannel.png)
+![](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.22.31 PM.png>)
 
 To disable this feature, use ;;setpartnerchannel off and the settings will clear from the database.
 
-![](../.gitbook/assets/setpartnerchanneloff.png)
+![](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.23.10 PM.png>)
 
-![What the completed partner embed looks like.](../.gitbook/assets/screen-shot-2020-10-17-at-8.56.52-pm.png)
+![What the completed partner embed looks like.](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.24.43 PM.png>)
 
 
 
 ### How Partnerships Are Stored
 
-*  Amour stores partnership COUNTS, nothing else. They are stored in our SQL database for a certain amount of time so they can be called to for ;;partners and ;;leaderboard as well as to tell you how many partners you've done after posting one.
+* &#x20;Amour stores partnership COUNTS, nothing else. They are stored in our SQL database for a certain amount of time so they can be called to for ;;partners and ;;leaderboard as well as to tell you how many partners you've done after posting one.
 * The SQL database is secured and can only be accessed by Bea.
-

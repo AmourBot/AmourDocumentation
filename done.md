@@ -6,7 +6,7 @@ description: That's it! You're at the end of our documentation!
 
 Thank you for reading Amour's documentation.&#x20;
 
-* Amour was coded with discord.js v12.
+* Amour was coded with discord.js v13.
 
 #### Amour's infrastructure:
 
@@ -29,8 +29,8 @@ Thank you for reading Amour's documentation.&#x20;
 
 Bea has a vast experience in JavaScript, HTML/CSS, Python, C, C++ and GoLang with an expanding knowledge of Java.&#x20;
 
-**Bea's Discord:** $K#0820\
-**Bea's Email:** bea@amourbot.com\
+**Bea's Discord:** Krim#0001\
+**Bea's Email:** bea@beasleeps.tech\
 **Bea's Github:** [zredrum](https://github.com/zredrum)
 
 

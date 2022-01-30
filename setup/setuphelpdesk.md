@@ -10,21 +10,20 @@ The modmail function is used in order to help users get help from the staff who 
 
 ### Usage:
 
-;;sethelpreq \[channel\]  
+;;sethelpreq \[channel]\
 Channel can be defined as:
 
 * Either the channel ID,
-* Or, the channel itself e.g \#help
+* Or, the channel itself e.g #help
 
 #### Example:
 
-![](../.gitbook/assets/sethelpreq.png)
+![](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.25.38 PM.png>)
 
 
 
-![Example when message is received.](../.gitbook/assets/screen-shot-2020-08-04-at-2.04.30-pm.png)
+![Example when message is received.](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.26.23 PM.png>)
 
 To disable the modmail feature if it's already set up, use ;;sethelpreq off and Amour will disable it.
 
-![](../.gitbook/assets/sethelpreqoff.png)
-
+![](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.26.47 PM.png>)

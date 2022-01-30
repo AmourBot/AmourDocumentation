@@ -8,25 +8,24 @@ The modlogs channel function of Amour sends any modlog data for bans, kicks and 
 
 ### Usage:
 
-;;modlogs \[channel \| off\]  
-\[channel\] Can include using:
+;;modlogs \[channel | off]\
+\[channel] Can include using:
 
 * The channel ID,
-* Or, tagging the channel with \#
+* Or, tagging the channel with #
 
 #### Example:
 
-![](../.gitbook/assets/modlogs.png)
+![](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.11.30 PM.png>)
 
 If you do not add arguments after ;;modlogs, it will return your modlogs channel.
 
-![](../.gitbook/assets/modlogs0args.png)
+![](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.11.52 PM.png>)
 
 Of course, to disable modlogs, you can use ;;modlogs off.
 
-![](../.gitbook/assets/modlogsoff.png)
+![](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.12.07 PM.png>)
 
 Whenever a punishment is issued, it will send the details in your modlogs channel. If no channel is set, it will not.
 
-![](../.gitbook/assets/moderationlogs%20%281%29.png)
-
+![](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.12.38 PM.png>)
