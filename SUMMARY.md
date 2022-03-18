@@ -15,7 +15,7 @@
 
 ## Admin
 
-* [Moderation Commands](admin/moderation-commands.md)
+* [Moderation Commands](admin/moderationcmds.md)
 * [Admin Commands](admin/admincmds.md)
 
 ## Fun
@@ -28,7 +28,7 @@
 
 ## Utility
 
-* [Utility Commands](utility/utility-commands.md)
+* [Utility Commands](utility/utilitycmds.md)
 
 ***
 
