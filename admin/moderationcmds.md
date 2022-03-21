@@ -4,46 +4,46 @@ description: A glimpse into the moderation commands for Amour.
 
 # Moderation Commands
 
-### ;;amgmute
+### /amgmute
 
 Mutes all members in the voice channel of yourself or a specified user. Useful for Among Us.\
 **Usage:**\
-****;;amgmute \[user]\
-;;muteall \[user]\
-;;amongus \[user]\
-Including a user is optional.
+**/**amgmute (user)
 
-![Any users in a voice channel of the user or user mentioned will be muted.](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.53.57 PM.png>)
+![/amgmute usage](<../.gitbook/assets/Screen Shot 2022-03-21 at 1.22.00 PM.png>)
 
+![Example usage](<../.gitbook/assets/amgmute (1).png>)
 
-
-### ;;amgunmute
+### /amgunmute
 
 Unmutes all members in the voice channel of yourself or a specified user. Useful for Among Us.\
 **Usage:**\
-****;;amgunmute \[user]\
-;;unmuteall \[user]\
-Including a user is optional.
+**/**amgunmute (user)
 
-![Any users in the voice channel of the user or user mentioned will be unmuted.](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.54.08 PM.png>)
+![/amgunmute](<../.gitbook/assets/Screen Shot 2022-03-21 at 1.23.47 PM.png>)
 
+![usage response.](<../.gitbook/assets/amgunmute (1).png>)
 
+### /ban
 
-### ;;ban
-
-Bans the mentioned user.\
+Bans the mentioned user with two methods.\
 **Usage:**\
-****;;ban \[user] \[reason]
+**/**ban \[user] (reason)\
+/ban \[userid] (reason)
 
-![You can ban a user by ID or mention.](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.54.34 PM.png>)
+![Methods for /ban](<../.gitbook/assets/Screen Shot 2022-03-21 at 1.24.34 PM.png>)
 
-### ;;kick
+![Works by ID or mention](<../.gitbook/assets/ban mention.png>)
+
+### /kick
 
 Kicks the mentioned user.\
 **Usage:**\
-****;;kick \[user] \[reason]
+**/**kick \[user] (reason)
 
-![You can kick a user by ID or mention.](<../.gitbook/assets/Screen Shot 2022-01-30 at 1.55.14 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2022-03-21 at 1.25.58 PM.png>)
+
+![Usage example for kick.](<../.gitbook/assets/kick (1).png>)
 
 ### ;;nick
 
