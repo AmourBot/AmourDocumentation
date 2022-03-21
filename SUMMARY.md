@@ -4,6 +4,7 @@
 
 ## Setup
 
+* [Autorole](setup/autorole.md)
 * [Prefix](setup/prefix.md)
 * [ModLogs](setup/modlogs.md)
 * [Join Channel](setup/setupjoins.md)
