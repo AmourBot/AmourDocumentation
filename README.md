@@ -20,14 +20,14 @@ Amour is a sophisticated bot. Unlike many bots, Amour focuses on a smooth theme,
 
 #### What if I have questions and need further help?
 
-* Please reach out to Krim#0001 on Discord for priority replies. Additionally, you can join the [support server](https://discord.gg/PagSxTp4Yd) and send a message in the help channel which will automatically alert us.
-* If you are not in the support server or would like an alternative option, you may use ;;amourhelp in any guild, and Amour will DM you so you can submit your request and contact the developers through the bot.
+* Please reach out to REDRUM#0001 on Discord for priority replies. Additionally, you can join the [support server](https://discord.gg/PagSxTp4Yd) and send a message in the help channel which will automatically alert us.
+* If you are not in the support server or would like an alternative option, you may use /amourhelp in any guild, and Amour will DM you so you can submit your request and contact the developers through the bot.
 * Alternatively, you may tweet @amourcommunity or email bea@amourbot.com with your request.
 
 #### Is my information safe?&#x20;
 
-* Amour's databases only store guild IDs, balances, user IDs, etc and not things such as your IP as that cannot be grabbed by Amour. Amour's database is only accessible by Bea and Bea is the only one who can access Amour's system on a secure container.
-* To request deletion of your information, please email bea@amourbot.com or send Krim#0001 a DM. Additionally, you may use the contact info by clicking [here](done.md#contact-information).
+* Amour's databases only store guild IDs, balances, user IDs, etc and not things such as your IP as that cannot be grabbed by Amour. Amour's database is only accessible by Bea and is the only one who can access Amour's system on a secure container.
+* To request deletion of your information, please email bea@amourbot.com or send REDRUM#0001 a DM. Additionally, you may use the contact info by clicking [here](done.md#contact-information).
 
 #### What is the uptime of Amour?
 
